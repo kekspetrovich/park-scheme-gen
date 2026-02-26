@@ -1,0 +1,5 @@
+{
+  "name": "Rope Park Architect",
+  "description": "A professional tool for designing and visualizing rope park obstacle courses (zip-lines) with automated stage selection based on track difficulty and color constraints.",
+  "requestFramePermissions": []
+}
